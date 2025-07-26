@@ -160,3 +160,4 @@
 | Title     | Recommended Order # | Leetcode #                                      | Difficulty | Tags                 | Solution                      |
 | --------- | ------------------- | ----------------------------------------------- | ---------- | -------------------- | ----------------------------- |
 | LRU Cache | 1                   | [146](https://leetcode.com/problems/lru-cache/) | Medium     | Linked List, Hashmap | [Python](Python/LRU_Cache.py) |
+this read me is crazy tho
